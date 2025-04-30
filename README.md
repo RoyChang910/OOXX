@@ -4,12 +4,12 @@
 - **Neural Network AI 對戰模式**
 - **Minimax AI 對戰模式**
 
-## 檔案內容
+檔案內容
 - `AI圈圈叉叉2.py` — 主程式，可執行遊戲並選擇對戰模式
 - `OOXX_model.h5` — 訓練的神經網路模型
 - `OOXX_training_data.npz` — 模型訓練所用的資料集
 
-## 執行環境需求
+執行環境需求
 請先安裝以下 Python 套件：
 -pygame 
 -tensorflow
